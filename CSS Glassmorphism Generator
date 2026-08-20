@@ -1,0 +1,86 @@
+# 🧊 CSS Glassmorphism Generator
+
+A simple and useful online tool for creating **Glassmorphism CSS effects** for modern websites.
+
+## 🌐 Website
+
+[CSS Glassmorphism Generator](https://css.glass/?utm_source=chatgpt.com)
+
+## 📌 About
+
+CSS Glass is a **Glassmorphism CSS Generator** that helps developers create beautiful frosted-glass effects without writing the CSS from scratch.
+
+The website provides controls for **transparency, blur, color, and outline**, allowing users to customize the glass effect visually.
+
+After changing the settings, the website generates ready-to-use CSS code.
+
+The generated effect commonly uses properties such as `background`, `border-radius`, `box-shadow`, and `backdrop-filter`.
+
+## ✨ Features
+
+* 🧊 Glassmorphism effect
+* 🎨 Customizable glass color
+* 🔍 Adjustable background blur
+* 🌫️ Transparency control
+* 📐 Border radius
+* ✨ Outline customization
+* 💻 Live CSS preview
+* 📋 Copy CSS to clipboard
+* ⚡ Easy to use
+* 🎯 Beginner-friendly
+
+## 🛠️ Technologies
+
+* HTML
+* CSS
+* CSS3
+* `backdrop-filter`
+* `rgba()`
+* CSS Box Shadow
+* CSS Border
+* CSS Border Radius
+
+## 💡 What is Glassmorphism?
+
+Glassmorphism is a modern UI design style that creates a **frosted glass appearance** using transparency and background blur.
+
+It is commonly used for:
+
+* Login pages
+* Signup pages
+* Cards
+* Navigation bars
+* Dashboards
+* Modals
+* Portfolio websites
+* Landing pages
+* Mobile UI designs
+
+## 🚀 Why Use CSS Glass?
+
+CSS Glass makes it easier to experiment with different glass effects and quickly obtain CSS code that can be used in frontend projects.
+
+It is especially useful for developers learning **CSS, UI design, and modern web development**.
+
+## 👨‍💻 Learning Purpose
+
+This website is a useful reference for learning:
+
+* CSS transparency
+* CSS blur effects
+* `backdrop-filter`
+* CSS shadows
+* CSS borders
+* Border radius
+* Modern UI design
+* Glassmorphism
+
+## ⭐ Conclusion
+
+CSS Glass is a helpful resource for creating attractive **glass-style UI components** with CSS. It makes the design process faster by providing visual controls and copy-ready CSS.
+
+### 👨‍💻 Author
+
+**Sonu Sharma**
+
+Frontend Developer | HTML | CSS | JavaScript
