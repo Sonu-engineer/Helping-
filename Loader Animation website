@@ -1,0 +1,169 @@
+# 🎨 Classic CSS Loaders
+
+A collection of **classic loading animations created using HTML and CSS**.
+This project is useful for learning CSS animations and adding attractive loading effects to websites.
+
+## 🌐 Live Website
+
+[CSS Loaders – Classic](https://css-loaders.com/classic/)
+
+## 📌 About The Project
+
+This project is based on the **Classic CSS Loaders** collection.
+It demonstrates how CSS can be used to create beautiful and interactive loading animations without requiring JavaScript.
+
+The loaders can be used in websites and web applications whenever users need visual feedback while content is loading.
+
+## ✨ Features
+
+* 🎨 Multiple loading animation designs
+* 💻 Created using HTML and CSS
+* ⚡ Lightweight and fast
+* 📱 Responsive design
+* 🔄 Smooth CSS animations
+* 🎯 Easy to customize
+* 🧑‍💻 Beginner-friendly
+* 🚀 Easy to integrate into projects
+* 🎭 Different animation styles
+* 📦 Minimal HTML structure
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* CSS Animations
+* CSS Keyframes
+* CSS Transform
+* CSS Pseudo-elements
+
+## 📂 Project Structure
+
+```text
+Classic-CSS-Loaders/
+│
+├── index.html
+├── style.css
+└── README.md
+```
+
+## 🚀 How To Use
+
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. Select or view the loader animation.
+5. Customize the CSS according to your project.
+
+## 🎨 Customization
+
+You can easily customize the loaders by changing:
+
+* Loader color
+* Loader size
+* Animation speed
+* Animation duration
+* Background color
+* Border style
+* Rotation
+* Scale
+* Position
+
+## 💡 Learning Purpose
+
+This project is useful for practicing:
+
+* HTML structure
+* CSS selectors
+* CSS properties
+* CSS animations
+* `@keyframes`
+* `transform`
+* `transition`
+* `opacity`
+* Responsive design
+
+## 📖 CSS Animation
+
+CSS animations allow elements to change from one style to another over a period of time.
+
+Example:
+
+```css
+.loader {
+    animation: loading 1s infinite;
+}
+
+@keyframes loading {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+```
+
+## 🎯 Where Loaders Can Be Used
+
+Loaders can be used in:
+
+* Login pages
+* Signup pages
+* Websites
+* Dashboards
+* Forms
+* API requests
+* Data loading
+* Search results
+* E-commerce websites
+* Portfolio websites
+* Web applications
+
+## 📱 Responsive Design
+
+The loaders can be adapted for different screen sizes using responsive CSS techniques.
+
+They can work on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+## ⚡ Advantages
+
+* Simple implementation
+* No JavaScript required for basic animations
+* Lightweight
+* Easy to customize
+* Attractive user interface
+* Improves user experience
+* Reusable in different projects
+
+## 🧑‍💻 Author
+
+**Sonu Sharma**
+
+Frontend Developer | HTML | CSS | JavaScript
+
+## ⭐ Credits
+
+Inspired by the **CSS Loaders Classic Collection**.
+
+Visit the original collection:
+
+[https://css-loaders.com/classic/](https://css-loaders.com/classic/?utm_source=chatgpt.com)
+
+## 📄 License
+
+This repository is intended for learning and practice purposes.
+Please check the original website for its terms and licensing information.
+
+## ⭐ Support
+
+If you find this project useful, consider giving the repository a ⭐ on GitHub.
+
+---
+
+### 🚀 Made with HTML & CSS ❤️
