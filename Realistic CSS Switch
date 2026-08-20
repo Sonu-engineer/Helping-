@@ -1,0 +1,97 @@
+# 🎛️ Realistic CSS Switch
+
+A modern and realistic **toggle switch UI component** created using HTML and CSS.
+
+## 🌐 Website
+
+[Uiverse – Realistic Switch](https://uiverse.io/elijahgummer/light-jellyfish-4?utm_source=chatgpt.com)
+
+## 📌 About
+
+This project is inspired by a realistic switch component available on **Uiverse.io**.
+
+The component demonstrates how HTML and CSS can be used to create an attractive and interactive toggle switch without requiring JavaScript.
+
+It uses a modern dark interface with realistic styling, glow effects, and a clean minimal design.
+
+## ✨ Features
+
+* 🎛️ Realistic toggle switch
+* 🎨 Modern UI design
+* 🌑 Dark theme
+* 💡 Glow effect
+* ⚡ CSS-based interaction
+* 📱 Responsive design
+* 🧩 Reusable component
+* 🎯 Minimal interface
+* 💻 HTML and CSS implementation
+* ✨ Smooth visual effects
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* CSS Transitions
+* CSS Transform
+* CSS Pseudo-elements
+* CSS Selectors
+* CSS Effects
+
+## 💡 Where It Can Be Used
+
+This switch component can be used in:
+
+* Dark/Light mode
+* Settings pages
+* User preferences
+* Navigation menus
+* Dashboard interfaces
+* Login pages
+* Mobile applications
+* Web applications
+* Control panels
+* Modern portfolio websites
+
+## 🎯 Learning Purpose
+
+This project is useful for learning how to create interactive UI components using CSS.
+
+It helps beginners understand:
+
+* HTML input elements
+* CSS selectors
+* Toggle switches
+* CSS transitions
+* CSS transformations
+* Glow effects
+* Shadows
+* Responsive UI
+* Modern interface design
+
+## 🚀 Why Use This Component?
+
+A toggle switch provides users with a simple way to turn an option ON or OFF.
+
+The realistic styling makes the interface more attractive while keeping the component simple and reusable.
+
+## 📂 Project Structure
+
+```text
+Realistic-CSS-Switch/
+│
+├── index.html
+├── style.css
+└── README.md
+```
+
+## ⭐ License
+
+The original Uiverse UI element is published under the **MIT License**.
+
+## 👨‍💻 Author
+
+**Sonu Sharma**
+
+Frontend Developer | HTML | CSS | JavaScript
+
+⭐ If you like this project, give the repository a star!
