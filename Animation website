@@ -1,0 +1,52 @@
+# Animista – Roll-In CSS Animation
+
+This project uses the **Roll-In animation from Animista**, a collection of ready-to-use CSS animations for web developers. Animista allows developers to preview animations, customize properties such as duration, timing function, delay, iteration count, and direction, and then generate or copy the required CSS code.
+
+## Animation Used
+
+**Roll-In Animation**
+
+The Roll-In effect creates an attractive entrance animation for web elements. It can be used for headings, buttons, cards, images, sections, and other website components to make a webpage more dynamic and engaging.
+
+## Features
+
+* Smooth CSS entrance animation
+* Customizable animation duration
+* Adjustable timing function
+* Configurable animation delay
+* Custom iteration count
+* Animation direction control
+* CSS keyframe generation
+* Copy-ready CSS code
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* CSS Animations
+* `@keyframes`
+* Transform and opacity properties
+
+## How It Works
+
+Animista provides a visual playground where the animation can be tested and customized. After selecting the required settings, developers can generate the CSS class and keyframes and use them directly in their projects.
+
+## Use Cases
+
+The Roll-In animation can be used for:
+
+* Website headings
+* Navigation elements
+* Buttons
+* Images
+* Product cards
+* Portfolio sections
+* Landing pages
+* Interactive UI components
+
+## Reference
+
+**Animista – Roll-In:**
+[https://animista.net/play/entrances/roll-in](https://animista.net/play/entrances/roll-in?utm_source=chatgpt.com)
+
+Animista states that its generated CSS animations are available for personal and commercial use under the FreeBSD License.
