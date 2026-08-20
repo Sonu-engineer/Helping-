@@ -1,0 +1,58 @@
+# 🎨 CSS Text Animations
+
+A collection of creative **CSS text animation effects** for modern websites.
+
+This project explores different ways to animate text using **HTML and CSS** without relying heavily on JavaScript.
+
+## ✨ Features
+
+* 🎯 Text Hover Animations
+* ⌨️ Typewriter Effects
+* 🌈 Color Animations
+* 💡 Neon Glow Effects
+* 👾 Glitch Effects
+* 🔄 3D Text Animations
+* 🌊 Wavy Text Effects
+* 🎭 Split Text Animations
+* ✨ Text Shadow Effects
+* 🎨 Gradient Text Effects
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* CSS Animations
+* `@keyframes`
+* CSS Transform
+* CSS Transition
+* CSS Pseudo-elements
+* Text Shadow
+* Clip Path
+* CSS Gradients
+
+## 📌 About
+
+CSS text animations can make websites more attractive and interactive.
+They can be used for headings, navigation links, buttons, hero sections, portfolios, and landing pages.
+
+This project is created for **learning, practice, and frontend development**.
+
+## 🚀 Purpose
+
+The main purpose of this project is to understand how CSS animation properties can be combined to create modern text effects.
+
+It is suitable for beginners who want to improve their **HTML and CSS animation skills**.
+
+## 🌐 Reference
+
+Inspired by the CSS text animation examples from Prismic:
+
+[Prismic – CSS Text Animations](https://prismic.io/blog/css-text-animations?utm_source=chatgpt.com)
+
+## 👨‍💻 Author
+
+**Sonu Sharma**
+
+Frontend Developer | HTML | CSS | JavaScript
+
+⭐ If you like this project, give the repository a star!
